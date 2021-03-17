@@ -1,4 +1,4 @@
 # curso-informatica-basica
 Curso informatica básica
 
-![teclado](img/teclado-ordenador.png)
+1. [Teclado](teclado/readme.md)
