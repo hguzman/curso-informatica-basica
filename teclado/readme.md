@@ -1,7 +1,7 @@
 # Tabla de contenido
 
 1. [Definición](#definición)
-2. [Imagenes](#imagenes)
+2. [Areas del teclado](#areas-del-teclado)
 3. [Codígo ASCII](#código-ascii)
 
 ## Definición
@@ -9,12 +9,21 @@ Un teclado de ordenador es un periférico o dispositivo de entrada que se usa pa
 
 Normalmente contiene teclas para letras individuales, números y caracteres especiales, así como teclas para funciones específicas.
 
-## Imagenes
+## Areas del teclado
+![areas teclado](/img/areas.jpeg)
+
+### Teclas de función
+Están ubicadas en la parte superior del teclado, iniciando
+desde F1 hasta F12
+
+> Cada tecla ejecuta una función diferente dependiendo del programa que este en uso
+
 ![teclado](/img/teclado-ordenador.png)
+
 ![numerico](/img/numerico.jpg)
 
-## Código ASCII
 
+## Código ASCII
 El código ASCII (siglas en ingles para American Standard Code for Information Interchange, es decir Código Americano ( Je! lease estadounidense... ) Estándar para el intercambio de Información ) ( se pronuncia Aski ).
 
 Fue creado en 1963 por el Comité Estadounidense de Estándares o "ASA", este organismo cambio su nombre en 1969 por "Instituto Estadounidense de Estándares Nacionales" o "ANSI" como se lo conoce desde entonces.
