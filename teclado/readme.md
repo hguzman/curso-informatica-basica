@@ -18,6 +18,7 @@ desde F1 hasta F12
 
 > Cada tecla ejecuta una función diferente dependiendo del programa que este en uso
 
+---
 ![teclado](/img/teclado-ordenador.png)
 
 ![numerico](/img/numerico.jpg)
