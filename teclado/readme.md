@@ -1,10 +1,10 @@
-# Teclado
-
-## Tabla de contenido
+# Tabla de contenido
 
 1. [Definición](#definición)
+2. [Imagenes](#imagenes)
+3. [Codígo ASCII](#código-ascii)
 
-### Definición
+## Definición
 Un teclado de ordenador es un periférico o dispositivo de entrada que se usa para introducir caracteres y funciones en el sistema informático presionando los botones o teclas. Es el dispositivo principal que se utiliza para introducir texto.
 
 Normalmente contiene teclas para letras individuales, números y caracteres especiales, así como teclas para funciones específicas.
@@ -13,7 +13,7 @@ Normalmente contiene teclas para letras individuales, números y caracteres espe
 ![teclado](/img/teclado-ordenador.png)
 ![numerico](/img/numerico.jpg)
 
-### Código ASCII
+## Código ASCII
 
 El código ASCII (siglas en ingles para American Standard Code for Information Interchange, es decir Código Americano ( Je! lease estadounidense... ) Estándar para el intercambio de Información ) ( se pronuncia Aski ).
 
