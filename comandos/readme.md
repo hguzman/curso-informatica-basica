@@ -7,6 +7,7 @@
 | cls | Limpia la pantalla |
 | cd / cd .. | Cambia de directorio |
 | mkdir | Crea un nuevo directorio |
+| dir | Muestra los archivos y carpetas |
 
 ## Consola Linux
 
@@ -15,3 +16,4 @@
 | clear | Limpia la pantalla |
 | cd / cd .. | Cambia de directorio |
 | mkdir | Crea un nuevo directorio |
+| ls -l | Muestra los archivos y carpetas |
