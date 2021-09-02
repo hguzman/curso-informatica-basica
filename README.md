@@ -11,3 +11,9 @@ Los lenguajes de programación en general se trabajan en Ingles
 
 - La variables no pueden iniciar con numeros
 - No pueden usar ñ ni tildes
+- No caracteres especiales
+- No Guion medio 
+
+### Permite
+- Numeros despues de letras
+- Guion bajo si se permite
