@@ -1,5 +1,8 @@
 # Tabla de contenido
-
+## Que es la infomatica basica
+Es el conjunto de conocimiento cientificos y tecnicas que hacen que hacen posible 
+ el tratatamiento,auttomatico  de la informacion por medio de ordenadores.De una 
+ manera, mas sintetizada podemos identificar la informatica con "informacion automatica".
 1. [Definición](#definición)
 2. [Areas del teclado](#areas-del-teclado)
 3. [Codígo ASCII](#código-ascii)
