@@ -7,4 +7,7 @@ Curso informatica básica
 
 ## Temas de programación
 
+Los lenguajes de programación en general se trabajan en Ingles
+
 - La variables no pueden iniciar con numeros
+- No pueden usar ñ ni tildes
