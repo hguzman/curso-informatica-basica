@@ -10,7 +10,6 @@ Un teclado de ordenador es un periférico o dispositivo de entrada que se usa pa
 Normalmente contiene teclas para letras individuales, números y caracteres especiales, así como teclas para funciones específicas.
 
 ## Areas del teclado
-![areas teclado](/img/areas.jpeg)
 
 ### Teclas de función
 Están ubicadas en la parte superior del teclado, iniciando
