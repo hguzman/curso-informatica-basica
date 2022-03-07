@@ -14,7 +14,7 @@
 |Control + P | Imprimir |
 |Ctrl + C | Copiar |
 
-### Otro tipo de comandos basicos 
+## Otro tipo de comandos basicos 
 | Comando | Descripción |
 | --- | --- |
 |Alt + tab | cambiar entre las aplicaciones que tengas abiertas. |
@@ -37,12 +37,4 @@
 | mkdir | Crea un nuevo directorio |
 | dir | Muestra los archivos y carpetas |
 
-### Consola Linux
 
-| Comando | Descripción |
-| --- | --- |
-| clear | Limpia la pantalla |
-| cd / cd .. | Cambia de directorio |
-| mkdir | Crea un nuevo directorio |
-| ls -l | Muestra los archivos y carpetas |
-| pwd | Muestra la ruta actual |
