@@ -12,6 +12,19 @@
 |Control + P | Imprimir |
 |Ctrl + C | Copiar |
 
+### Otro tipo de comandos basicos 
+| Comando | Descripción |
+| --- | --- |
+|Alt + tab | cambiar entre las aplicaciones que tengas abiertas. |
+|Alt + F4 | cerrar la ventana que tengas abierta. |
+|F2 | modificar el nombre de un archivo que tengas seleccionado. También funciona muy bien en |Excel para modificar una celda|
+|F5 | actualizar la página web o el programa (si aplica) que estás navegando. |
+|Alt + Enter | ir directo a las propiedades de un archivo seleccionado. |
+|Ctrl + F4 | cerrar el documento o archivo que tengas abierto. |
+|Ctrl + A | seleccionar todo. |
+|Ctrl + D | mover a la papelera de reciclaje. |
+
+
 
 ### Consola windows
 
