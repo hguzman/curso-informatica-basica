@@ -1,5 +1,7 @@
-# Comandos por consola
+**Que es un comando** 
+*/Se define comando al mensaje enviado al ordenador, por parte del usuario, y que va a provocar una respuesta en este. Los comandos son en realidad órdenes, pues indican al dispositivo informático que debe hacer o ejecutar/*
 
+# Comandos por consola
 **Muchas de las combinaciones básicas de teclas en Windows se han vuelto muy populares a través de los años. Estos trucos del teclado nos han ayudado a una mejor optimización del tiempo, a aumentar la productividad empresarial y, sobre todo, a ahorrarnos un poco de estrés.dos por consola**          
 
 ## Comandos basicos 
