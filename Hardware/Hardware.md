@@ -49,6 +49,8 @@ La GPU es principalmente importante para la representación en 3D, hace exactame
 
 Una unidad de alimentacion generalmente abreviado como PSU hace más que solo suministrar energía a su computadora. Es el punto donde ingresa su sistema desde una fuente de alimentación externa y está ubicada en la motherboard para el hardware de componentes individuales. No todos los suministros de alimentación son iguales y sin el voltaje correcto de PSU su sistema fallará.
 
+Sin la cantidad correcta de alimentación, los componentes no podrán ejecutarse de forma efectiva y la computadora quizás pueda experimentar fallos o simplemente fallar cuando se inicia. Se recomienda tener un suministro de alimentación que cubra más que el uso de su sistema. No solo se protegerá contra la falla del sistema, también lo hará frente a la necesidad posterior de necesitar una nueva PSU cuando actualice a componentes más poderosos de PC.
+
 ![](https://www.crucial.mx/content/dam/crucial/articles/pc-users/what-is-hardware/power-supply.jpg.transform/large-jpg/img.jpg)
 
 
