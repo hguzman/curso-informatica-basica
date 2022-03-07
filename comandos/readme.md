@@ -25,7 +25,24 @@
 |Alt + Enter | ir directo a las propiedades de un archivo seleccionado. |
 |Ctrl + F4 | cerrar el documento o archivo que tengas abierto. |
 |Ctrl + A | seleccionar todo. |
-|Ctrl + D | mover a la papelera de reciclaje. |
+|Ctrl + D | mover a la papelera de reciclaje. | 
+
+**Muchos de nuestros computadores incluyen un botón exclusivo en sus teclados que muestra la icónica ventana que identifica al software. Lo que muchos desconocen es que hay una decena de funciones que pueden controlarse allí**
+
+## Comandos con la tecla windows 
+| Comando | Descripción |
+| --- | --- |
+|Windows | podremos acceder al menú de inicio de nuestra computadora. |
+|Windows + X# | con un número que elijamos podremos ingresar a los programas anclados en la barra de inicio en el orden que allí aparecen. Así, si Chrome es nuestro segundo ícono al oprimir Windows+2 abriremos ese programa de inmediato. |
+|Windows + Tab | Si quieres un vistazo de todas tus aplicaciones abiertas y desplazarte entre ellas. |
+|Windows + E | ¿Necesitas hallar un archivo o acceder rápidamente a tu memoria USB? Bueno, con este sencillo comando ingresarás a tu explorador de archivos y no necesitarás desplazarte o siquiera tocar tu ratón. |
+|Windows + L | ¡Peligro, alguien se acerca y no puede ver lo que haces! Combina estas dos teclas y tu computadora se bloqueará. Te llevará directo a la pantalla para elegir un usuario.  |
+|Windows + flecha arriba/abajo | Te permitirá maximizar o minimizar la ventana en la que estás trabajando. |
+|Windows + flecha a la izquierda/derecha | Esta ubicará la ventana que tengas activa en la mitad izquierda o derecha, según tu elección |
+|Windows + M | Minimiza todas tus ventanas. |
+|Windows + C | Sí, irás directo al escritorio. |
+|Windows + Impr Pant | ¡Captura de pantalla! Y, lo mejor, se guardará directamente en la carpeta de imágenes. |
+
 
 
 # Consola Linux
