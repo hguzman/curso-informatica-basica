@@ -1,5 +1,7 @@
 # Comandos por consola
 
+**Muchas de las combinaciones básicas de teclas en Windows se han vuelto muy populares a través de los años. Estos trucos del teclado nos han ayudado a una mejor optimización del tiempo, a aumentar la productividad empresarial y, sobre todo, a ahorrarnos un poco de estrés.dos por consola**          
+
 ## Consola windows
 
 | Comando | Descripción |
