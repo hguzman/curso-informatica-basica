@@ -4,7 +4,7 @@ Curso informatica básica
 1. [Informática](informatica/readme.md)
 2. [Teclado](teclado/readme.md)
 3. [Navegadores](navegadores/readme.md)
-
+4. [Internet](Internet/net.md)
 
 ## Temas de programación
 
