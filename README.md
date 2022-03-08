@@ -3,8 +3,10 @@ Curso informatica básica
 
 1. [Teclado](teclado/readme.md)
 2. [Navegadores](navegadores/readme.md)
-3. [Hardware](Hardware/hardware.md)
-
+1. [Informática](informatica/readme.md)
+2. [Teclado](teclado/readme.md)
+3. [Navegadores](navegadores/readme.md)
+4. [Hardware](Hardware/hardware.md)
 
 ## Temas de programación
 
