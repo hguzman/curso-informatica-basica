@@ -1,0 +1,104 @@
+# **Atajos de teclado en excel**
+![Texto alternativo](https://excelparatodos.com/wp-content/uploads/2021/01/Atajo-del-teclado-para-Excel.jpg) 
+# ***¿QUE ES UN ATAJO DE TECLADO?***
+Un atajo de teclado es una tecla o un grupo de teclas que debe pulsarse al mismo tiempo para ejecutar un comando especifico.
+
+
+## ***TECLAS DE FUNCION DE EXCEL***
+* **F1** Muestra la ayuda de Excel.
+* **F2** Entra en modo de edición para la celda activa.
+* **F3** En caso de existir un nombre definido, muestra el cuadro de diálogo Pegar nombre.
+* **F4** Repite la última acción. Además, al escribir una fórmula permite cambiar entre referencias relativas, absolutas y mixtas.
+* **F5** Muestra el cuadro de diálogo Ir a.
+* **F6** Moverse entre los paneles de un libro dividido.
+* **F7** Muestra el cuadro de diálogo Ortografía.
+* **F8** Activa el modo Ampliar selección que permite aumentar el rango seleccionado utilizando las teclas de dirección.
+* **F9** Calcula el resultado de las fórmulas de todas las hojas de los libros abiertos.
+* **F10** Activa la barra de menús.
+* **F11** Crea una hoja de gráfico con el rango de celdas seleccionado.
+* **F12** Muestra el cuadro de diálogo Guardar como.
+
+## ***ATAJOS DE UNA SOLA TECLA***
+* **Alt** Activa la barra de menús.
+* **Avpág** Desplazarse una pantalla abajo dentro de la hoja.
+* **Entrar** Completa la entrada de una celda y selecciona la celda inferior.
+* **Esc** Cancela la entrada de una celda. También cierra cualquier cuadro de diálogo mostrado.
+* **Espacio** Activa o desactiva una casilla de verificación dentro de un cuadro de diálogo.
+* **Fin** Activa o desactiva el Modo final. Al estar en Modo final se pueden utilizar las teclas de dirección para moverse hacia la última celda del rango actual.
+* **Inicio** Moverse al inicio de la fila.
+* **Repág** Desplazarse una pantalla arriba dentro de la hoja.
+* **Retroceso** Elimina el contenido de una celda y entra en Modo de edición.
+* **Suprimir** Elimina el contenido de una celda
+* **Tabulador** Completa la entrada de una celda y selecciona la celda a la derecha.
+* **Teclas de dirección** Selecciona la celda superior, inferior, izquierda o derecha de acuerdo a la tecla de dirección pulsada.
+
+## **ATAJOS DE TECLADO BÁSICOS EN EXCEL**
++ **Ctrl+A** Muestra el cuadro de diálogo Abrir.
++ **Ctrl+B** Muestra el cuadro de diálogo Buscar.
++ **Ctrl+C** Copia las celdas seleccionadas.
++ **Ctrl+D** Copia una fórmula hacia la derecha sobre el rango seleccionado.
++ **Ctrl+E** Selecciona todas las celdas de la hoja actual.
++ **Ctrl+G** Guarda el libro de trabajo.
++ **Ctrl+I** Muestra el cuadro de diálogo Ir a.
++ **Ctrl+J** Copia una fórmula hacia abajo sobre el rango seleccionado.
++ **Ctrl+K** Aplica formato de cursiva al texto seleccionado.
++ **Ctrl+L** Muestra el cuadro de diálogo Reemplazar.
++ **Ctrl+N** Aplica formato de negrita al texto seleccionado.
++ **Ctrl+P** Muestra el cuadro de diálogo Imprimir.
++ **Ctrl+R** Cierra el libro de trabajo.
++ **Ctrl+S** Subraya el texto seleccionado.
++ **Ctrl+T** Muestra el cuadro de diálogo Crear tabla.
++ **Ctrl+U** Nuevo libro de trabajo.
++ **Ctrl+V** Pega el contenido del portapapeles.
++ **Ctrl+X** Corta las celdas seleccionadas.
++ **Ctrl+Y** Rehace la última acción deshecha.
++ **Ctrl+Z** Deshace la última acción.
++ **Ctrl+1** Muestra el cuadro de diálogo Formato de celdas.
++ **Ctrl+2** Aplica formato de negrita al texto seleccionado.
++ **Ctrl+3** Aplica formato de cursiva al texto seleccionado.
++ **Ctrl+4** Subraya el texto seleccionado.
++ **Ctrl+5** Aplica el efecto de tachado al texto.
++ **Ctrl+6** Oculta o muestra los objetos de la hoja.
++ **Ctrl+8** Muestra los símbolos de esquema en la hoja.
++ **Ctrl+9** Oculta las filas seleccionadas.
++ **Ctrl+0** Oculta las columnas seleccionadas.
+
+## **ATAJOS CON CTRL Y TECLAS DE FUNCIÓN**
++ **Ctrl+F1** Oculta o muestra la Cinta de opciones.
++ **Ctrl+F2** Muestra el cuadro de diálogo Imprimir.
++ **Ctrl+F3** Muestra el Administrador de nombres.
++ **Ctrl+F4** Cierra la ventana del libro actual.
++ **Ctrl+F5** Restaura el tamaño de la ventana del libro actual.
++ **Ctrl+F6** Moverse al libro abierto siguiente.
++ **Ctrl+F7** Permite mover la ventana del libro cuando la ventana no está maximizada.
++ **Ctrl+F8** Permite cambiar el tamaño de la ventana del libro  cuando la ventana no está maximizada.
++ **Ctrl+F9** Minimiza la ventana del libro actual.
++ **Ctrl+F10** Maximiza la ventana de un libro minimizado.
++ **Ctrl+F11** Inserta una hoja de Macros de Microsoft Excel 4.0
++ **Ctrl+F12** Muestra el cuadro de diálogo Abrir.
+
+# **ATAJOS CON SHIFT Y TECLAS DE FUNCIÓN**
++ **Shift+F2** Agrega o edita un comentario de celda.
++ **Shift+F3** Muestra el cuadro de diálogo Insertar función. Al editar una fórmula muestra el cuadro de diálogo Argumentos de función.
++ **Shift+F4** Ejecuta el comando “Buscar siguiente” de acuerdo a los términos de búsqueda indicados previamente.
++ **Shift+F5** Muestra el cuadro de diálogo Buscar.
++ **Shift+F6** Cambia el foco entre la hoja, la cinta de opciones, la barra de estado y el panel de tareas (si está presente).
++ **Shift+F7** Muestra el panel de tareas Referencia.
++ **Shift+F8** Permite agregar otro rango de celdas a la selección.
++ **Shift+F9** Calcula las fórmulas de la hoja actual.
++ **Shift+F10** Muestra el menú de clic derecho para la selección.
++ **Shift+F11** Inserta una nueva hoja.
++ **Shift+F12** Muestra el cuadro de diálogo Guardar como.
+
+# **OTROS ATAJOS DE TECLADO EN EXCEL**
++ **Alt+Espacio** Abre el menú de control de la venta de Excel.
++ **Alt+’ (comilla simple)** Muestra el cuadro de diálogo Estilo.
++ **Alt+Ctrl+Izquierda** Se mueve hacia la izquierda entre las celdas no adyacentes de un rango seleccionado.
++ **Alt+Ctrl+Derecha** Se mueve hacia la derecha entre las celdas no adyacentes de un rango seleccionado.
++ **Ctrl+-** Muestra el cuadro de diálogo Eliminar celdas.
++ **Ctrl++** Muestra el cuadro de diálogo Insertar celdas.
++ **Ctrl+Alt+V** Muestra el cuadro de diálogo Pegado especial.
+
+Existen muchas teclas de atajos, estas solo son algunas "basicas" para podernos ayudar a la hora de nuestra productividad en EXCEL.
+
+![Texto alternativo](https://www.awerty.net/wp-content/uploads/2015/01/Atajos-para-Excel-1024x585.png "Título de la imagen")
