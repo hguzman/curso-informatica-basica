@@ -25,8 +25,10 @@
 ![insertar2](imagenes/insertar2.PNG)
 + seleccione la imagen que va a utilizar y haga click en insertar (_tambien puede copiar la imagen desde su ubicacion y pegar sobre la diapositiva_)
 ### TRANSICIONES
+
 + puede agregar a la diapositiva la transicion que desee
-![transiciones](imagenes/transiciones.PNG) 
+![transiciones](imagenes/transiciones.PNG)
+ 
 ### PRESENTACION 
 ![presentacion](imagenes/presentacion.PNG)
 + hacer click en "_presentacion con diaposivas_"
