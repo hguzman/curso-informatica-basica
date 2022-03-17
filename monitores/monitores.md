@@ -9,3 +9,6 @@ Los monitores son un tipo de **dispositivos electrónicos de salida** en la comp
 * En los años 80, habían distintas variaciones de los adaptadores que **permitian mejor soporte para colores, mejor resolucion y, junto a ello**, habían **mejores tarjetas graficas** que se adaptaban a estos.
 * En los años 90, y la movida de los **monitores CRT, se crearon los Monitores LCD**, con una pantalla de cristal liquido con **un numero de pixeles en colores puestos delante de una luz**, siendo muy superior a su predecesor.
 * En la epoca actual, se han creado distintas variaciones de los Monitores LCD **como los Monitores Plasma.**
+
+### Bibliografía
+1. Pérez, Mariana. ( Última edición:22 de septiembre del 2021). Definición de Monitor. Recuperado de: https://conceptodefinicion.de/monitor/. Consultado el 5 de febrero del 2022
