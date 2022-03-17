@@ -2,8 +2,8 @@
 ## ¿Que es el hardware?
 corresponde a todos aquellos elementos físicos que conforman un ordenador o sistema informático. En este sentido se engloban desde los cables y conectores, hasta cada condensador de la placa base y demás artefactos. Entre los componentes básicos del hardware de un ordenador podemos identificar los siguientes:
 
-- Monitor (##monitor)
-- Procesador(##procesador)
+- Monitor
+- Procesador
 - Memorias RAM y ROM 
 - Placa base o tarjeta madre 
 - Fuente de alimentación.
